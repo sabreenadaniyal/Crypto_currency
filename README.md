@@ -32,5 +32,5 @@ A smart, real-time cryptocurrency agent built using **Chainlit** and **Binance A
 ### 📦 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sabreenadaniyal/crypto-agent.git
+git clone [https://github.com/sabreenadaniyal/Crypto_currency]
 cd crypto-agent
